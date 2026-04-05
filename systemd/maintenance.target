@@ -1,0 +1,6 @@
+[Unit]
+Description= Maintenance Mode for Webservices
+#things required by target 
+require= ssh.service nginx.service network-online.target
+after= ssh.service nginx.service network-online.target
+allow-isolate=yes
