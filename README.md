@@ -1,1 +1,1 @@
-# azure-vm-maintenance-mode
+# Azure-vm-maintenance-mode
