@@ -225,18 +225,15 @@ q → Exit
 ---
 
 ## License
-
 MIT License
 
 ---
 
 ## Author
-
 Zishan Hassan Khan
-Interested in DevOps, Cloud, AI and Software Development 
+Interested in DevOps, Cloud, AI and Software Development <br>
 LinkedIn: [https://www.linkedin.com/in/zishan-hassan-khan-935568281/](https://www.linkedin.com/in/zishan-hassan-khan-935568281/)
 ---
 
 ## Note
-
 This README file was created with the help of AI to ensure a clear and well-structured presentation.
