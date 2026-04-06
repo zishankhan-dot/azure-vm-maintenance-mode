@@ -1,10 +1,10 @@
-#!bin/bash
+#!/bin/bash
 
 
 
 #link default file from nginx to maintenance/index.html
-echo "Changing file default to maintenance file"
-ln -sfn  /etc/nginx/sites-available/maintainance.conf  /etc/nginx/sites-enabled/default
+echo "Changing file default to maintenance/maintenance.conf"
+ln -sfn  /etc/nginx/sites-available/maintenance.conf  /etc/nginx/sites-enabled/default
 
 
 echo "Restarting Nginx";
