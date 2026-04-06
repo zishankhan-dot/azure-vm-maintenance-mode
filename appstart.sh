@@ -46,7 +46,7 @@ do
 	echo "2) Switch To Normal Mode"
 	echo "3)Show Status"
 	echo "q) Quit"
-	read -rp "Enter Your Choice" choice;
+	read -rp "Enter Your Choice: " choice;
 
 	case  "$choice"  in
 	      1)
