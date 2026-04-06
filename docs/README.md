@@ -232,14 +232,11 @@ MIT License
 
 ## Author
 
-Zishan Khan
-Master’s Student in Artificial Intelligence
-Interested in DevOps, Cloud, and System Design
-
+Zishan Hassan Khan
+Interested in DevOps, Cloud, AI and Software Development 
+LinkedIn: [https://www.linkedin.com/in/zishan-hassan-khan-935568281/](https://www.linkedin.com/in/zishan-hassan-khan-935568281/)
 ---
 
 ## Note
 
 This README file was created with the help of AI to ensure a clear and well-structured presentation.
-
-
